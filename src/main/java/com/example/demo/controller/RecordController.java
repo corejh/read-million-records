@@ -1,4 +1,4 @@
-package com.jdoodle;
+package com.example.demo.controller;
 
 import com.example.demo.service.RecordService;
 import org.springframework.web.bind.annotation.GetMapping;
